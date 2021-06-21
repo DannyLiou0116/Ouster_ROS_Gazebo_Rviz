@@ -89,5 +89,6 @@ python 3.9.5
   $ source ~/catkin_ws/devel/setup.bash
   $ roslaunch ouster_description os1_world.launch
   ```
-  
-##### 詳細結果可參考原作者: https://www.wilselby.com/2019/05/simulating-an-ouster-os-1-lidar-sensor-in-ros-gazebo-and-rviz/
+![Screenshot from 2021-06-17 17-21-29](https://user-images.githubusercontent.com/58333915/122813341-6eac1280-d305-11eb-8c64-1d000cd86d57.png)
+
+##### 更多詳細結果可參考原作者: https://www.wilselby.com/2019/05/simulating-an-ouster-os-1-lidar-sensor-in-ros-gazebo-and-rviz/
